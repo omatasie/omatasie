@@ -1,25 +1,27 @@
 # 👋 Hi, I'm Oma Tasie-Amadi
 
-**Business Administration (Finance), Data Science & Applied Analytics Student @ USC**
+**Business Administration (Finance) & Applied Analytics @ USC | Building AI-powered, data-driven products**
 
 ---
 
 ## 🚀 About Me
-I am a globally-minded analyst passionate about uncovering insights through strategic and technological solutions. Currently maintaining a **3.96 GPA** at the **University of Southern California (USC)**, I thrive on solving complex challenges at the intersection of finance, technology and social impact.
+I’m a data-driven problem solver focused on building products at the intersection of **AI, analytics, and real-world decision-making**. Currently at the University of Southern California (USC), I’ve worked on projects ranging from financial fraud detection systems to behavior-driven learning tools.
+
+I’m especially interested in how data and technology can shape user behavior, improve decision-making, and drive meaningful impact.
 
 ---
 
 ## 🛠 Skills & Tools
 
-* **Languages:** Python • R • SQL • Java
-* **Data Science:** Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • NLP
-* **Tools & Platforms:** Git • Jupyter • Streamlit • Supabase • Excel (Advanced Modeling) • React Native
+**Languages:** Python • R • SQL • Java
+**Data & AI:** Pandas • NumPy • Matplotlib • Scikit-learn • NLP  
+**Tools & Platforms:** Git • Jupyter • Supabase • Excel • React Native • Tableau  
 
 ---
 
 ## 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/oma-ta](https://www.linkedin.com/in/oma-ta)
-* **Email:** [omatasie23@gmail.com](mailto:omatasie23@gmail.com) | [omatasie@usc.edu](mailto:omatasie@usc.edu)
+* **Email:** [omatasie23@gmail.com](mailto:omatasie23@gmail.com)
 
 ---
-*Last updated: January 2026*
+*Last updated: April 2026*
